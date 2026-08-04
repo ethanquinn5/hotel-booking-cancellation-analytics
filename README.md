@@ -1,4 +1,4 @@
-# TermProject_Team10: Hotel Booking Cancellations and Weather Impact
+# Hotel Booking Cancellations and Weather Impact
 
 ## Project Overview
 This project analyzes hotel booking cancellation behavior by combining batch hotel booking data with historical and real-time weather data. The objective is to assess whether weather conditions provide insight into cancellations along with traditional booking features, while demonstrating a complete batch-plus-streaming analytics pipeline.
