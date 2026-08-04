@@ -1,4 +1,4 @@
-# Dashboard KPIs — Hotel Bookings Cancellations and Weather Impact
+# Dashboard KPIs — Hotel Booking Cancellations and Weather Impact
 
 ## Looker Studio Dashboard
 https://lookerstudio.google.com/u/0/reporting/4ae22beb-3898-47f3-b5f0-7b6097c70f82/page/yKjiF/edit
