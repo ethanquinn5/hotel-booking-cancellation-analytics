@@ -1,7 +1,6 @@
-# Project Contribution Summary
-**Name:** Ethan Quinn  
-**Course Project:** Hotel Booking Cancellation Analysis  
-**Deliverable:** Final_Ethan_Quinn_contrib.md  
+# Ethan Quinn — Individual Project Contribution
+
+This document summarizes my individual responsibilities and deliverables for the Hotel Booking Cancellation Analytics project.
 
 ---
 
@@ -48,10 +47,6 @@ My primary contribution to this project focused on building the real-time and an
   - `blueprint.pdf`
   - `governance.pdf`
 - Helped organize the repository to clearly separate notebooks, SQL queries, pipeline components, dashboards, and documentation.
-
-### AI-Assisted Workflow
-- Used AI assistance to generate and refine SQL queries, feature engineering logic, streaming queries, and visualization code.
-- Validated all AI-generated outputs through row counts, schema inspection, model evaluation metrics, and comparison against expected data behavior.
 
 ---
 
